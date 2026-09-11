@@ -33,4 +33,4 @@ When I'm away from the terminal, you'll probably find me:
 - ⛳ Golfing
 - 🖼️ Strolling through museums
 - ✈️ Traveling
-![Tokyo Pixel Art](https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1)
+
