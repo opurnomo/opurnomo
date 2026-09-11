@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h2>
 
-![Tokyo Pixel Art](https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1)
 
 I'm **[Owen](https://www.linkedin.com/in/owenpurnomo/)**, a quantitative finance student at Boston University.
 
@@ -34,3 +33,4 @@ When I'm away from the terminal, you'll probably find me:
 - ⛳ Golfing
 - 🖼️ Strolling through museums
 - ✈️ Traveling
+![Tokyo Pixel Art](https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1)
