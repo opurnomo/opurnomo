@@ -6,7 +6,7 @@
 
 I'm **[Owen](https://www.linkedin.com/in/owenpurnomo/)**, a quantitative finance student at Boston University.
 
-I like turning financial ideas into code — researching markets, testing strategies, and building models to understand where returns come from and where risk hides.
+I turn financial ideas into code: researching markets, testing strategies, and building models to understand where returns come from and where risk hides.
 
 Currently pursuing an **MS in Mathematical Finance & Financial Technology (MSMFT '28)** at BU.
 
