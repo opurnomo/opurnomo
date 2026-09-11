@@ -7,9 +7,9 @@ I'm **[Owen](https://www.linkedin.com/in/owenpurnomo/)**, a quantitative finance
 
 I like turning financial ideas into code — researching markets, testing strategies, and building models to understand where returns come from and where risk hides.
 
-Currently pursuing an MS in Mathematical Finance & Financial Technology (MSMFT '28) at BU.
+Currently pursuing an **MS in Mathematical Finance & Financial Technology (MSMFT '28)** at BU.
 
-Most of my work here is built with Python, NumPy, pandas, SQL, and statistical modeling, with a focus on quantitative investing and financial data.
+Most of my work here is built with **Python, NumPy, pandas, SQL, and statistical modeling**, with a focus on quantitative investing and financial data.
 
 ### What I'm working on
 
