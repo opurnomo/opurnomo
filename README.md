@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h2>
 
-I'm **[Owen](https://www.linkedin.com/in/owenpurnomo/)**, a quantitative finance student at **Boston University**.
+I'm **[Owen](https://www.linkedin.com/in/owenpurnomo/)**, a quantitative finance student at Boston University.
 
 I like turning financial ideas into code — researching markets, testing strategies, and building models to understand where returns come from and where risk hides.
 
-Currently pursuing an **MS in Mathematical Finance & Financial Technology (MSMFT '28)** at BU.
+Currently pursuing an MS in Mathematical Finance & Financial Technology (MSMFT '28) at BU.
 
-Most of my work here is built with **Python, NumPy, pandas, SQL, and statistical modeling**, with a focus on quantitative investing and financial data.
+Most of my work here is built with Python, NumPy, pandas, SQL, and statistical modeling, with a focus on quantitative investing and financial data.
 
 ### What I'm working on
 
@@ -24,9 +24,7 @@ Most of my work here is built with **Python, NumPy, pandas, SQL, and statistical
 
 ### A little more about me
 
-Before finance, I spent time in **professional kitchens**, where I learned to think about systems, execution, and iteration — skills that surprisingly translate pretty well to quantitative research.
-
-When I'm away from the terminal, you'll probably find me:
+Before finance, I spent time in michelin stared kitchens, where I learned to think about systems, execution, and iteration — skills that surprisingly translate pretty well to quantitative research.
 
 ### Outside the terminal
 
