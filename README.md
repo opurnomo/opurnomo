@@ -26,15 +26,9 @@ Most of my work here is built with Python, NumPy, pandas, SQL, and statistical m
 
 Before finance, I spent time in michelin stared kitchens, where I learned to think about systems, execution, and iteration — skills that surprisingly translate pretty well to quantitative research.
 
-### Outside the terminal
-
 When I'm away from the terminal, you'll probably find me:
 
 - 🥩 Cooking
 - ⛳ Golfing
 - 🖼️ Strolling through museums
 - ✈️ Traveling
-
----
-
-*Cooking alpha-generating recipes.*
