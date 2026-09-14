@@ -10,7 +10,7 @@ I turn financial ideas into code: researching markets, testing strategies, and b
 
 Currently pursuing an **MS in Mathematical Finance & Financial Technology (MSMFT '28)** at BU.
 
-Most of my work here is built with **Python, NumPy, pandas, SQL, and statistical modeling**, with a focus on quantitative investing and financial data.
+Most of my work here is built with **Python, NumPy, Pandas, SQL, and Statistical Modeling**, with a focus on quantitative investing and financial data.
 
 ### What I'm working on
 
